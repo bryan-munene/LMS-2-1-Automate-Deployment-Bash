@@ -1,0 +1,9 @@
+{
+    "aws_access_key":"YOUR AWS ACCESS KEY",
+    "aws_secret_key":"YOUR AWS SECRET KEY",
+    "vpc_region":"YOUR AWS REGION OF CHOICE",
+    "vpc_public_sg_id":"YOUR SECURITY GROUP OF CHOICE",
+    "source_ami":"YOUR AMI OF CHOICE",
+    "instance_type":"YOUR INSTANCE TYPE OF CHOICE",
+    "ssh_username":"USERNAME" 
+ }
